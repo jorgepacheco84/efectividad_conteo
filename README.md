@@ -1,0 +1,1 @@
+# efectividad_conteo
